@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="wborbajr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wborbajr&show_icons=true&hide_border=true" />
+![WBORBAJR's github stats](src="https://github-readme-stats.vercel.app/api?username=wborbajr&show_icons=true&hide_border=false&theme=dracula")
 
 [twitter]: https://twitter.com/waldirborbajr
 [instagram]: https://instagram.com/waldirborbajr
