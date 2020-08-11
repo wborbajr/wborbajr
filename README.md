@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wborbajr/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wborbajr@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/waldirborbajr/)
-[![Twitter](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://twitter.com/waldirborbajr)
+[![Twitter](https://img.shields.io/badge/-Twitter-c14438?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/waldirborbajr)
 
 &nbsp;
 
@@ -52,7 +52,6 @@
     <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
   </a>
 </p>
----
 
 ![WBORBAJR's github stats](https://github-readme-stats.vercel.app/api?username=wborbajr&show_icons=true&hide_border=false&theme=dracula)
 
