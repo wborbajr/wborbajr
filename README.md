@@ -7,8 +7,9 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wborbajr)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wborbajr/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/waldirborbajr/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wborbajr@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/waldirborbajr/)
+[![Twitter](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://twitter.com/waldirborbajr)
 
 &nbsp;
 
@@ -24,14 +25,6 @@
 - 📫 How to reach me: see below
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-### Connect with me:
-
-[<img align="left" alt="waldirborbajr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="wborbajr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="waldirborbajr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -64,7 +57,3 @@
 ![WBORBAJR's github stats](https://github-readme-stats.vercel.app/api?username=wborbajr&show_icons=true&hide_border=false&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wborbajr)
-
-[twitter]: https://twitter.com/waldirborbajr
-[instagram]: https://instagram.com/waldirborbajr
-[linkedin]: https://linkedin.com/in/wborbajr
