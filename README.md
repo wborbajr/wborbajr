@@ -47,21 +47,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
-  </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=wborbajr&show_icons=true&hide_border=false&theme=dracula" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
-  </a>
-</p>
-
 ![WBORBAJR's github stats](https://github-readme-stats.vercel.app/api?username=wborbajr&show_icons=true&hide_border=false&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wborbajr)
