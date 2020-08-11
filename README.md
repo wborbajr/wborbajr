@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 
 ---
 
-![WBORBAJR's github stats](src="https://github-readme-stats.vercel.app/api?username=wborbajr&show_icons=true&hide_border=false&theme=dracula")
+![WBORBAJR's github stats](https://github-readme-stats.vercel.app/api?username=wborbajr&show_icons=true&hide_border=false&theme=dracula)
+
 
 [twitter]: https://twitter.com/waldirborbajr
 [instagram]: https://instagram.com/waldirborbajr
