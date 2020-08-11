@@ -22,7 +22,7 @@
 - 🤔 I’m looking for help with ... well no help for now.
 - 💬 Ask me about myself 
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: see below
+- 📫 How to reach me: see above
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
