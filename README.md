@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
 ![WBORBAJR's github stats](https://github-readme-stats.vercel.app/api?username=wborbajr&show_icons=true&hide_border=false&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wborbajr&layout=compact)]
+
 
 [twitter]: https://twitter.com/waldirborbajr
 [instagram]: https://instagram.com/waldirborbajr
