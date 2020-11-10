@@ -17,10 +17,12 @@
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on backend sollution on NodeJS and Python.
+- 🔭 I’m currently working on backend sollution on GO and Python.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on opensource projects.
 - 🤔 I’m looking for help with ... well no help for now.
+- 😍 GO | Python | Containers | Linux & BSD | Cloud Infrastructure.
+- 🌎 From Curitiba, Brazil to the World.
 - 💬 Ask me about myself 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: see above
