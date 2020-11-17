@@ -1,5 +1,6 @@
 <!-- Your title -->
-## Hi, I'm Waldir Borba Junior, a Developer 🚀 from Brazil to the World. 👋
+## Hi, I'm Software Backend en·gi·neer ⬘ Docker ⬘ Open Source ⬘ Photographer ⬘ Cinematographer ⬘ Dogs lover
+ 🚀 from Brazil to the World. 👋
 
 <!--
 **wborbajr/wborbajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
